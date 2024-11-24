@@ -1,4 +1,4 @@
-This repository is the implementation of [Heterogeneous Graph Self Attention Networks(HGSAN)]
+This repository is the implementation of paper [Heterogeneous Graph Self Attention Networks(HGSAN)] submitted to Pattern Recognition.
 
 ## Installation
 
