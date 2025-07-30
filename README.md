@@ -1,5 +1,4 @@
-This repository is the implementation of paper [Heterogeneous Graph Self Attention Networks(HGSAN)] submitted to Pattern Recognition.
-
+This repository is the implementation of paper [Heterogeneous Graph Self Attention Networks(HGSAN)] submitted to IEEE Transactions on Knowledge and Data Engineering.
 ## Installation
 
 Install [pytorch](https://pytorch.org/get-started/locally/)
